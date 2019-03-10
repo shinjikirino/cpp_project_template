@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmockfoo.a  CMakeFiles/mockfoo.dir/test/mock.cpp.o CMakeFiles/mockfoo.dir/Foo.cpp.o
+/usr/bin/ranlib libmockfoo.a
