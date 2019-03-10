@@ -6,7 +6,7 @@
 * ビルドディレクトリを作成
 * 本リポジトリのルートにあるディレクトリを指定してcmakeを実行する
  * 例
- ’’’/bin/bash
+ ```/bin/bash
   $ ls
   CMakeLists.txt  googletest  README.md  src
   $ mkdir build && cd build
@@ -40,5 +40,5 @@
   [ 90%] Building CXX object src/module1/CMakeFiles/test.out.dir/test/test.cpp.o
   [100%] Linking CXX executable test.out
   [100%] Built target test.out 
-  '''
+ ```
 ## ディレクトリ構成
