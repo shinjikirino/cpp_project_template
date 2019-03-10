@@ -1,0 +1,10 @@
+/home/admin/00.programming/cpp/cpp_project_template/build/CMakeFiles/edit_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/CMakeFiles/rebuild_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/CMakeFiles/edit_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/CMakeFiles/rebuild_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/rebuild_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/edit_cache.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/a.out.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/mockfoo.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/foo.dir
+/home/admin/00.programming/cpp/cpp_project_template/build/src/module1/CMakeFiles/test.out.dir

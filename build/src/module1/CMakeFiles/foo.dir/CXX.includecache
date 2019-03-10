@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/module1/Bar.h
+
+../src/module1/export/Foo.h
+Bar.h
+../src/module1/export/Bar.h
+
+/home/admin/00.programming/cpp/cpp_project_template/src/module1/Bar.cpp
+iostream
+-
+Bar.h
+/home/admin/00.programming/cpp/cpp_project_template/src/module1/Bar.h
+
+/home/admin/00.programming/cpp/cpp_project_template/src/module1/Bar.h
+
+/home/admin/00.programming/cpp/cpp_project_template/src/module1/Foo.cpp
+iostream
+-
+Foo.h
+/home/admin/00.programming/cpp/cpp_project_template/src/module1/Foo.h
+
