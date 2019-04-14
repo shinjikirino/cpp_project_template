@@ -14,13 +14,6 @@ add_executable(a.out
 target_link_libraries(a.out foo)
 
 
-# gtest gmock
-include_directories( 
-  ${PROJECT_SOURCE_DIR}/googletest/include
-)
-link_directories( 
-  ${PROJECT_SOURCE_DIR}/googletest/lib
-)
 add_library(mockfoo STATIC
   test/mock.cpp
   Foo.cpp
