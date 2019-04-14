@@ -7,6 +7,9 @@ target_include_directories(foo1
          ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
+# コンパイルオプションを分けるテスト
+set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} -Wno-error")
+
 # バイナリとリンク
 add_executable(a1.out
   main.cpp
